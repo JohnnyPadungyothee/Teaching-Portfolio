@@ -1,0 +1,13 @@
+# Jonathan Padungyothee
+![Portrait of myself](kasalmao.jpg)
+## About Me
+I am a 3rd year B.S Computer Science major at the University of California: San Diego and an aspiring software developer. I hail from the traffic-ridden county of Los Angeles and moved to San Diego for my undergrad. I have experience doing research in the field of networking under Professor Alex Snoeren and George Porter. I have interest in pursuing Machine Learning and AI and I am currently tutoring under the CSE department for CSE 140 under Professor Bryan Chin. For more detail on my experiences please view my [resume](resume.pdf).
+
+## <center>Selected Work from EDS 124BR: Teaching Computational Thinking for Everyone</center>
+
+### Example Code Explanation - Sequences
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/dxDmgXlKKAY" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
