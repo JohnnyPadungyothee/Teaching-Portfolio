@@ -8,10 +8,14 @@ I am a 3rd year B.S Computer Science major at the University of California: San 
 ### Code Walkthrough - Sequences
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/dxDmgXlKKAY" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dxDmgXlKKAY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
 ### Code Walkthrough - Repeats
-[![Code Walkthrough - Repeats](https://img.youtube.com/vi/NN23HLggLoo/0.jpg)](https://youtu.be/NN23HLggLoo)
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/NN23HLggLoo" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
