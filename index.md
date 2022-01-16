@@ -5,9 +5,12 @@ I am a 3rd year B.S Computer Science major at the University of California: San 
 
 ## <center>Selected Work from EDS 124BR: Teaching Computational Thinking for Everyone</center>
 
-### Example Code Explanation - Sequences
+### Code Walkthrough - Sequences
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/dxDmgXlKKAY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
+
+### Code Walkthrough - Repeats
+![Code Walkthrough - Repeats](https://www.youtube.com/embed/NN23HLggLoo)
