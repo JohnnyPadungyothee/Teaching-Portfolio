@@ -13,4 +13,4 @@ I am a 3rd year B.S Computer Science major at the University of California: San 
 <!-- blank line -->
 
 ### Code Walkthrough - Repeats
-![Code Walkthrough - Repeats](https://www.youtube.com/embed/NN23HLggLoo)
+![Code Walkthrough - Repeats](https://youtu.be/NN23HLggLoo)
