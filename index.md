@@ -26,3 +26,17 @@ I am a 3rd year B.S Computer Science major at the University of California: San 
 </figure>
 <!-- blank line -->
 
+### Code Walkthrough - Nested Repeats
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/smwZB-D4aNw" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+### Code Walkthrough - Events
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YU-GcAKlxco" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
