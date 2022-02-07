@@ -47,3 +47,10 @@ I am a 3rd year B.S Computer Science major at the University of California: San 
 </figure>
 <!-- blank line -->
 
+## Code Walkthrough - Conditional Loops
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/IJAEkkq2A_s" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
