@@ -61,3 +61,9 @@ I am a 3rd year B.S Computer Science major at the University of California: San 
 </figure>
 <!-- blank line -->
 
+## Code Walkthrough - Nested If-Else
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-16oewC5JpQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
